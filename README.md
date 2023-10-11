@@ -6,5 +6,5 @@
   •
   <a href="https://YoussefRaafatNasry.github.io/portfolYOU/docs/">Documentation</a>
 
-  <sub><sup> Forked from portfolYOU: © 2019 under the <a href="./LICENSE">MIT License</a>.</sup></sub>
+  <sub><sup> Forked from YoussefRaafatNasry's portfolYOU: © 2019 under the <a href="./LICENSE">MIT License</a>.</sup></sub>
 </div>
